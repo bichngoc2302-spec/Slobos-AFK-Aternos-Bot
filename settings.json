@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "bott2322.aternos.me",
-    "port": 13122,
-    "version": "26.1.2",
+    "ip": "miristonsmp.aternos.me",
+    "port": 61146,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
